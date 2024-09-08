@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.8c851f26.css",
-    "main.js": "/static/js/main.eadce299.js",
+    "main.js": "/static/js/main.8be842f1.js",
     "static/media/video--party.mp4": "/static/media/video--party.646a8bf2cc1ae5d37df9.mp4",
     "static/media/video--chidrenParty.mp4": "/static/media/video--chidrenParty.af05cfdd3c679d9f80f0.mp4",
     "static/media/video--wedding.mp4": "/static/media/video--wedding.ec6f26a6d88627d6bdf6.mp4",
     "static/media/video--corporate.mp4": "/static/media/video--corporate.3f96c6724235d12d939e.mp4",
-    "static/media/pageBanner--corporate.jpg": "/static/media/pageBanner--corporate.86ae0f9a0363f641caa6.jpg",
-    "static/media/pageBanner--childParty.jpg": "/static/media/pageBanner--childParty.2ce7b36a34322f2f223a.jpg",
-    "static/media/home__banner--img.png": "/static/media/home__banner--img.563fb8a6fb5d21d2c020.png",
-    "static/media/pageBanner--wedding.jpg": "/static/media/pageBanner--wedding.e74784d05d3dd397904b.jpg",
-    "static/media/home__services--4.png": "/static/media/home__services--4.f72f300eb3a792e5cf87.png",
-    "static/media/home__services--3.png": "/static/media/home__services--3.8bda34171e70cb5ff2d6.png",
-    "static/media/home__aboutUs--img.png": "/static/media/home__aboutUs--img.36b7c579348aaea028cf.png",
-    "static/media/home__services--2.png": "/static/media/home__services--2.43db210e25b30bd17ced.png",
-    "static/media/home__services--1.png": "/static/media/home__services--1.39e0d8a7683a472a0e69.png",
-    "static/media/pageBanner--party.jpg": "/static/media/pageBanner--party.9f73956ba2257824c655.jpg",
+    "static/media/home__banner--img.png": "/static/media/home__banner--img.ee57ddec65875fcdbc4e.png",
+    "static/media/home__services--2.png": "/static/media/home__services--2.7189faded9085e6cc10c.png",
+    "static/media/home__services--3.png": "/static/media/home__services--3.d6514beece63155ca102.png",
+    "static/media/home__services--4.png": "/static/media/home__services--4.22826634ac5a803dcb65.png",
+    "static/media/home__aboutUs--img.png": "/static/media/home__aboutUs--img.88dfb48749929545a393.png",
+    "static/media/home__services--1.png": "/static/media/home__services--1.7059b0735943ea14e42e.png",
     "static/media/Michael_Anderson.png": "/static/media/Michael_Anderson.9d25a9e20bee576704b4.png",
     "static/media/Emily_Thompson.png": "/static/media/Emily_Thompson.37ca57f1002e45c8eecb.png",
     "static/media/Sophia_Johnson.png": "/static/media/Sophia_Johnson.124c675866983b99df38.png",
     "static/media/Olivia_Rodriguez.png": "/static/media/Olivia_Rodriguez.37cb2119afcd41fb4abb.png",
     "static/media/James_Wilson.png": "/static/media/James_Wilson.b8f8bf47380f0ccd0743.png",
+    "static/media/pageBanner--party.jpg": "/static/media/pageBanner--party.188070b19c8147e5e5b7.jpg",
+    "static/media/pageBanner--childParty.jpg": "/static/media/pageBanner--childParty.6843d5dd743c2319f038.jpg",
+    "static/media/pageBanner--wedding.jpg": "/static/media/pageBanner--wedding.c68456f30fe02a7527ab.jpg",
+    "static/media/pageBanner--corporate.jpg": "/static/media/pageBanner--corporate.55ebe1715f51432a7784.jpg",
     "static/media/pageBanner--eventheme.webp": "/static/media/pageBanner--eventheme.1046570fac627f06048d.webp",
     "static/media/party_3.jpg": "/static/media/party_3.52a3219f4d84a089325e.jpg",
     "static/media/childreParty_1.jpg": "/static/media/childreParty_1.c66b922bb98ac7536204.jpg",
@@ -80,10 +80,10 @@
     "static/media/material-symbols_star.svg": "/static/media/material-symbols_star.c9a006e2f387a381dde72d28f3ad86f4.svg",
     "static/media/hamburger-menu.svg": "/static/media/hamburger-menu.e4b3a13fb753ef22a5619e4ff4aa2291.svg",
     "main.8c851f26.css.map": "/static/css/main.8c851f26.css.map",
-    "main.eadce299.js.map": "/static/js/main.eadce299.js.map"
+    "main.8be842f1.js.map": "/static/js/main.8be842f1.js.map"
   },
   "entrypoints": [
     "static/css/main.8c851f26.css",
-    "static/js/main.eadce299.js"
+    "static/js/main.8be842f1.js"
   ]
 }
