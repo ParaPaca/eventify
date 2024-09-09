@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/eventify-project/static/css/main.f6ac63f6.css",
-    "main.js": "/eventify-project/static/js/main.b9b6a50a.js",
+    "main.css": "/eventify-project/static/css/main.46bd2301.css",
+    "main.js": "/eventify-project/static/js/main.99ddd75e.js",
     "static/media/video--party.mp4": "/eventify-project/static/media/video--party.646a8bf2cc1ae5d37df9.mp4",
     "static/media/video--chidrenParty.mp4": "/eventify-project/static/media/video--chidrenParty.af05cfdd3c679d9f80f0.mp4",
     "static/media/video--wedding.mp4": "/eventify-project/static/media/video--wedding.ec6f26a6d88627d6bdf6.mp4",
     "static/media/video--corporate.mp4": "/eventify-project/static/media/video--corporate.3f96c6724235d12d939e.mp4",
-    "static/media/pageBanner--corporate.jpg": "/eventify-project/static/media/pageBanner--corporate.86ae0f9a0363f641caa6.jpg",
-    "static/media/pageBanner--childParty.jpg": "/eventify-project/static/media/pageBanner--childParty.2ce7b36a34322f2f223a.jpg",
-    "static/media/home__banner--img.png": "/eventify-project/static/media/home__banner--img.563fb8a6fb5d21d2c020.png",
-    "static/media/pageBanner--wedding.jpg": "/eventify-project/static/media/pageBanner--wedding.e74784d05d3dd397904b.jpg",
-    "static/media/home__services--4.png": "/eventify-project/static/media/home__services--4.f72f300eb3a792e5cf87.png",
-    "static/media/home__services--3.png": "/eventify-project/static/media/home__services--3.8bda34171e70cb5ff2d6.png",
-    "static/media/home__aboutUs--img.png": "/eventify-project/static/media/home__aboutUs--img.36b7c579348aaea028cf.png",
-    "static/media/home__services--2.png": "/eventify-project/static/media/home__services--2.43db210e25b30bd17ced.png",
-    "static/media/home__services--1.png": "/eventify-project/static/media/home__services--1.39e0d8a7683a472a0e69.png",
-    "static/media/pageBanner--party.jpg": "/eventify-project/static/media/pageBanner--party.9f73956ba2257824c655.jpg",
+    "static/media/home__banner--img.png": "/eventify-project/static/media/home__banner--img.ee57ddec65875fcdbc4e.png",
+    "static/media/home__services--2.png": "/eventify-project/static/media/home__services--2.7189faded9085e6cc10c.png",
+    "static/media/home__services--3.png": "/eventify-project/static/media/home__services--3.d6514beece63155ca102.png",
+    "static/media/home__services--4.png": "/eventify-project/static/media/home__services--4.22826634ac5a803dcb65.png",
+    "static/media/home__aboutUs--img.png": "/eventify-project/static/media/home__aboutUs--img.88dfb48749929545a393.png",
+    "static/media/home__services--1.png": "/eventify-project/static/media/home__services--1.7059b0735943ea14e42e.png",
     "static/media/Michael_Anderson.png": "/eventify-project/static/media/Michael_Anderson.9d25a9e20bee576704b4.png",
     "static/media/Emily_Thompson.png": "/eventify-project/static/media/Emily_Thompson.37ca57f1002e45c8eecb.png",
     "static/media/Sophia_Johnson.png": "/eventify-project/static/media/Sophia_Johnson.124c675866983b99df38.png",
     "static/media/Olivia_Rodriguez.png": "/eventify-project/static/media/Olivia_Rodriguez.37cb2119afcd41fb4abb.png",
     "static/media/James_Wilson.png": "/eventify-project/static/media/James_Wilson.b8f8bf47380f0ccd0743.png",
+    "static/media/pageBanner--party.jpg": "/eventify-project/static/media/pageBanner--party.188070b19c8147e5e5b7.jpg",
+    "static/media/pageBanner--childParty.jpg": "/eventify-project/static/media/pageBanner--childParty.6843d5dd743c2319f038.jpg",
+    "static/media/pageBanner--wedding.jpg": "/eventify-project/static/media/pageBanner--wedding.c68456f30fe02a7527ab.jpg",
+    "static/media/pageBanner--corporate.jpg": "/eventify-project/static/media/pageBanner--corporate.55ebe1715f51432a7784.jpg",
     "static/media/pageBanner--eventheme.webp": "/eventify-project/static/media/pageBanner--eventheme.1046570fac627f06048d.webp",
     "static/media/party_3.jpg": "/eventify-project/static/media/party_3.52a3219f4d84a089325e.jpg",
     "static/media/childreParty_1.jpg": "/eventify-project/static/media/childreParty_1.c66b922bb98ac7536204.jpg",
@@ -79,11 +79,11 @@
     "static/media/extraServices--food.svg": "/eventify-project/static/media/extraServices--food.5983ec07daed6b694f31262494f9dea8.svg",
     "static/media/material-symbols_star.svg": "/eventify-project/static/media/material-symbols_star.c9a006e2f387a381dde72d28f3ad86f4.svg",
     "static/media/hamburger-menu.svg": "/eventify-project/static/media/hamburger-menu.e4b3a13fb753ef22a5619e4ff4aa2291.svg",
-    "main.f6ac63f6.css.map": "/eventify-project/static/css/main.f6ac63f6.css.map",
-    "main.b9b6a50a.js.map": "/eventify-project/static/js/main.b9b6a50a.js.map"
+    "main.46bd2301.css.map": "/eventify-project/static/css/main.46bd2301.css.map",
+    "main.99ddd75e.js.map": "/eventify-project/static/js/main.99ddd75e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6ac63f6.css",
-    "static/js/main.b9b6a50a.js"
+    "static/css/main.46bd2301.css",
+    "static/js/main.99ddd75e.js"
   ]
 }
