@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eventify-project/static/css/main.46bd2301.css",
-    "main.js": "/eventify-project/static/js/main.99ddd75e.js",
+    "main.js": "/eventify-project/static/js/main.d2250e3c.js",
     "static/media/video--party.mp4": "/eventify-project/static/media/video--party.646a8bf2cc1ae5d37df9.mp4",
     "static/media/video--chidrenParty.mp4": "/eventify-project/static/media/video--chidrenParty.af05cfdd3c679d9f80f0.mp4",
     "static/media/video--wedding.mp4": "/eventify-project/static/media/video--wedding.ec6f26a6d88627d6bdf6.mp4",
@@ -80,10 +80,10 @@
     "static/media/material-symbols_star.svg": "/eventify-project/static/media/material-symbols_star.c9a006e2f387a381dde72d28f3ad86f4.svg",
     "static/media/hamburger-menu.svg": "/eventify-project/static/media/hamburger-menu.e4b3a13fb753ef22a5619e4ff4aa2291.svg",
     "main.46bd2301.css.map": "/eventify-project/static/css/main.46bd2301.css.map",
-    "main.99ddd75e.js.map": "/eventify-project/static/js/main.99ddd75e.js.map"
+    "main.d2250e3c.js.map": "/eventify-project/static/js/main.d2250e3c.js.map"
   },
   "entrypoints": [
     "static/css/main.46bd2301.css",
-    "static/js/main.99ddd75e.js"
+    "static/js/main.d2250e3c.js"
   ]
 }
